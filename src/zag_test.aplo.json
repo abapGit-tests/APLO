@@ -1,0 +1,17 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Test",
+    "originalLanguage": "en"
+  },
+  "subobjects": [
+    {
+      "name": "BATCH",
+      "description": "Batch"
+    },
+    {
+      "name": "LOG",
+      "description": "Logging"
+    }
+  ]
+}
